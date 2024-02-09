@@ -1,0 +1,2 @@
+The minimum suport is 0.01, 0.02, 0.03, 0.04,..........1 (between 0 and 1)
+The dataset you can use any dataset as an input while browsing the file on running the code which open the GUI and if you need to export the data OnClick Export Rules you can named an output file and save that file.
